@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationVideoGitHub", "WebApplicationVideoGitHub\WebApplicationVideoGitHub.csproj", "{0DDCBFD6-71B3-45CD-9A37-8C4EBC7D97D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationVideoGitHub", "WebApplicationVideoGitHub\WebApplicationVideoGitHub.csproj", "{0DDCBFD6-71B3-45CD-9A37-8C4EBC7D97D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{BE1397EE-5522-4366-BADE-5313DB12EC5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0DDCBFD6-71B3-45CD-9A37-8C4EBC7D97D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DDCBFD6-71B3-45CD-9A37-8C4EBC7D97D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DDCBFD6-71B3-45CD-9A37-8C4EBC7D97D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1397EE-5522-4366-BADE-5313DB12EC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1397EE-5522-4366-BADE-5313DB12EC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1397EE-5522-4366-BADE-5313DB12EC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1397EE-5522-4366-BADE-5313DB12EC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
